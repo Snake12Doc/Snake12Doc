@@ -61,7 +61,11 @@ comandos de shell arbitrarios.
 
 ![Actividad pública de Álvaro en GitHub](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Snake12Doc&theme=transparent)
 
----
+## Más allá del código
 
-Fuera del código, sigo la Fórmula 1 y me quedo con la mentalidad de Fernando
-Alonso: adaptarse, insistir y no dar una carrera por perdida.
+Mantengo [Si esto compila, se come](https://snake12doc.github.io/libro-recetas/),
+un recetario online que voy actualizando y que siempre permite consultar la
+última versión publicada.
+
+También sigo la Fórmula 1 y me quedo con la mentalidad de Fernando Alonso:
+adaptarse, insistir y no dar una carrera por perdida.
