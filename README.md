@@ -4,6 +4,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Álvaro_Ruiz_Zamora-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alvaro-ruiz-zamora-60942018a/)
 [![GitHub](https://img.shields.io/badge/GitHub-Snake12Doc-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Snake12Doc)
+[![CV](https://img.shields.io/badge/CV-Ver_y_descargar_PDF-123B5D?style=flat-square&logo=adobeacrobatreader&logoColor=white)](https://snake12doc.github.io/Snake12Doc/alvaro-ruiz-cv.pdf)
 [![Hexacode](https://img.shields.io/badge/Hexacode-Socio_fundador-123B5D?style=flat-square)](https://hexacode.es)
 
 Desarrollo sistemas backend y microservicios desde 2019, principalmente con
